@@ -1,10 +1,19 @@
 /* Write your CSS here! */
+#mainHeading{
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
+/* Additional CSS because pretty */
 *{
     margin:0;
     padding:0;
     font-family: ui-sans-serif;
 }
 body{
+    margin:8px;
+    display:block;
     height:100vh;
 }
 header{
